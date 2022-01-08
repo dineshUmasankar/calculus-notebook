@@ -107,9 +107,9 @@ Project Link: [https://github.com/dineshUmasankar/calculus-notebook](https://git
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* Design Inpsired by devhints.io
+* [Design Inpsired by devhints.io](https://devhints.io/)
 * [README Template](https://github.com/othneildrew/Best-README-Template)
-* [Icon made by smalllikeart]("https://www.flaticon.com/authors/smalllikeart")
+* [Icon made by smalllikeart](https://www.flaticon.com/authors/smalllikeart)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
