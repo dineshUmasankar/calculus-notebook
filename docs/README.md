@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/dinesh-umasankar-78354b184/)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/39a97539-83d3-43a4-bc32-8f09b91a7de6/deploy-status)](https://app.netlify.com/sites/youthful-turing-596fe3/deploys)
 
 
 <!-- PROJECT LOGO -->
@@ -16,6 +16,8 @@
   <p align="center">
     A simple static React Website integrating LaTeX to display various commonly used calculus formulas
     <br />
+    <br />
+    <a href="https://youthful-turing-596fe3.netlify.app">View Demo</a>
   </p>
 
   <p align="center">
